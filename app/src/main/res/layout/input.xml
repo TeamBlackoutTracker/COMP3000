@@ -3,6 +3,7 @@
     android:layout_width="match_parent" android:layout_height="wrap_content"
     android:id="@+id/keyboard_layout"
     android:layout_alignParentBottom="true"
-    android:keyPreviewLayout="@layout/preview">
+    android:keyPreviewLayout="@layout/preview"
+    android:keyBackground="@drawable/key">
 
 </android.inputmethodservice.KeyboardView>
